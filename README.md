@@ -9,7 +9,7 @@ We have been tasked with organizing and analyzing P-H's employment data in order
 
 * Potential retirements, as defined by our rough age criteria, is heavily weighted towards Senior Engineers and Senior Staff, as can be seen here:
 
-[Potential Retirements by Title](retire_by_title.png)
+![Potential Retirements by Title](retire_by_title.png)
 
 * Lesser but still significant losses may be seen in non-Senior general Staff and Engineers
 
@@ -17,7 +17,7 @@ We have been tasked with organizing and analyzing P-H's employment data in order
 
 * There is a moderate-to-small population of Mentorship-qualified employees who we may be able to use to ease the transition, seen here:
 
-[Available Mentors by Title](mentor_by_title.png)
+![Available Mentors by Title](mentor_by_title.png)
 
 ## Summary
 
